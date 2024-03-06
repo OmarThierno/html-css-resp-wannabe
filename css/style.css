@@ -197,6 +197,8 @@ img {
     .why-us {
         background-color: #222222;
         padding-top: 3rem;
+        padding-bottom: 3rem;
+        margin-bottom: 0;
     }
 
     .why-us .col-left {

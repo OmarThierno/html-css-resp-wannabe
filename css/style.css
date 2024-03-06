@@ -128,6 +128,12 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
+@media screen and (max-width: 1138px) {
+    .container {
+        width: 90%;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .container {
         width: 80%;
@@ -192,7 +198,7 @@ img {
         background-color: #222222;
         padding-top: 3rem;
     }
-    
+
     .why-us .col-left {
         width: 100%;
     }
